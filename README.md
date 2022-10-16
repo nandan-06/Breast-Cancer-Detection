@@ -11,5 +11,4 @@
 - Trained the model on LogisticRegression from sklearn.
 - Applied KFold algorithm for better results.
 - Got `roc_auc_score` of 0.997
-
-### Refer to `breastCancerDetection.ipynb`.
+- Refer to `breastCancerDetection.ipynb`
